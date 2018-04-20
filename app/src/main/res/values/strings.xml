@@ -1,0 +1,31 @@
+<resources>
+    <!-- String values for Spinner Hall of Residence -->
+    <string name="app_name">Directory</string>
+    <string name="Kuti">Kuti</string>
+    <string name="Queen_idia">Queen Idia</string>
+    <string name="Queen_elizabeth">Queen Elizabeth</string>
+    <string name="Nnamdi_azikwe">Nnamdi Azikwe</string>
+    <string name="Awo">Obafemi Awolowo</string>
+    <string name="Off_campus">Off Campus</string>
+    <string name="Independence">Independence</string>
+    <string name="Tedder">Tedder</string>
+    <string name="Mellanby">Mellanby</string>
+    <string name="Bello">Bello</string>
+
+    <!-- String values for Spinner Level -->
+    <string name="first_level">100</string>
+    <string name="second_level">200</string>
+    <string name="third_level">300</string>
+    <string name="fourth_level">400</string>
+    <string name="fifth_level">500</string>
+    <string name="sixth_level">600</string>
+    <string name="pg">Post Graduate</string>
+
+    <!-- String values for spinner gender -->
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+
+    <string name="spinner_prompt1">Choose Gender</string>
+
+
+</resources>
